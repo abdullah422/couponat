@@ -1,20 +1,14 @@
 # couponat
-<<<<<<< HEAD
-A mobile application for helping users to get the newest coupons from different brands. 
-=======
 
-A new Flutter project.
+Welcome to Style couponat App – a simple coupons app!
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Discover the ultimate savings with our coupons app! Get access to the freshest discounts, promo codes, and exclusive offers from your favorite brands—all in one place. Whether you’re shopping for fashion, electronics, groceries, or dining out, our app has you covered. Say goodbye to clipping paper coupons and hello to effortless savings!
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Presentation](./Screenshots/Presentation_1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> bf976b0 (Initial commit)
+![Presentation](./Screenshots/Presentation_2.png)
+
