@@ -1,6 +1,6 @@
 # couponat
 
-Welcome to Style couponat App – a simple coupons app!
+Welcome to couponat App – a simple coupons app!
 
 ## Overview
 
