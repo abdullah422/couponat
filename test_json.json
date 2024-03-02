@@ -1,0 +1,41 @@
+{
+  "data": {
+    "banners": [],
+    "brands": [
+      {
+        "id": 1,
+        "name": "days",
+        "brand_color": "#ff0000",
+        "image": "/storage/uploads/brands/zAN8L20TXiyULJtWi9SJ5SQLdsMjLd7qGGYFD8mB.png",
+        "coupons_count": 1
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "weeds",
+        "coupons_count": 1
+      }
+    ],
+    "coupons": [
+      {
+        "id": 1,
+        "brand": {
+          "id": 1,
+          "name": "days",
+          "brand_color": "#ff0000",
+          "image": "/storage/uploads/brands/zAN8L20TXiyULJtWi9SJ5SQLdsMjLd7qGGYFD8mB.png",
+          "coupons_count": 1
+        },
+        "title": "ggg",
+        "description": "ggg",
+        "code": "ggg",
+        "type": "new",
+        "url": "gggg",
+        "in_favourite": "0"
+      }
+    ]
+  },
+  "error": 0,
+  "message": ""
+}

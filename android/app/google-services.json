@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084624462571",
+    "project_id": "couponat-e3984",
+    "storage_bucket": "couponat-e3984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084624462571:android:cd316c9734e938115394ae",
+        "android_client_info": {
+          "package_name": "com.example.couponat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63HSrOg94nYf7WRh2y7MEaRUcqMOQXvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
